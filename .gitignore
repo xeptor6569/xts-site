@@ -1,0 +1,20 @@
+# Exclude generated public dir, temporary resources, node modules, and other unnecessary files from being tracked by Git.
+# Hugo files
+/public/
+/resources/_gen/
+/node_modules/
+/hugo_stats.json
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
