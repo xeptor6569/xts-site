@@ -1,7 +1,7 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, I am Cameron Marotto!"
 meta_title: "About"
-description: "this is meta description"
+description: "All things Game & Software Development, DevOps, and Tech."
 image: "/images/avatar.png"
 draft: false
 ---
